@@ -1,0 +1,16 @@
+name: "Hamilton Noel"
+output_dir: "."
+navbar:
+  title: "Hamilton Noel"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Hobbies"
+      href: hobbies.html
+
+
+## file:///C:/Users/hamil/Desktop/Stats Website
+## library("rmarkdown")
+## 

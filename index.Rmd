@@ -1,0 +1,9 @@
+---
+title: "Hamilton Noel"
+---
+```{r,echo=FALSE}
+  Ham<-load.image("C:/Users/hamil/Desktop/Stats Website/Ham.jpg")
+ plot(Ham, axes = FALSE, main = "This is me!")
+```
+
+Hi! My name is Hamilton Noel. I am a master's student at the University of Pennsylvania pursuing a degree in Behavioral and Decision Sciences.  
